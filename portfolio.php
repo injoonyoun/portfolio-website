@@ -1,6 +1,6 @@
 <?php
     // header
-    displayActive("index.html",$_GET["Page"]);
+    displayActive("header.html",$_GET["Page"]);
 
     if (sizeof($_GET)==0 || $_GET["Page"]=="Home") {
         // home
