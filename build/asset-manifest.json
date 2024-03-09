@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1881c9c8.css",
+    "main.js": "/static/js/main.7682aff3.js",
+    "static/js/453.bb257cf5.chunk.js": "/static/js/453.bb257cf5.chunk.js",
+    "static/media/crochet.jpg": "/static/media/crochet.72a0def16fa22f25e095.jpg",
+    "static/media/ceramic.jpg": "/static/media/ceramic.684a67c00654e2d8f979.jpg",
+    "static/media/SuperOcean.woff2": "/static/media/SuperOcean.3e99d98f5ef2d1434673.woff2",
+    "static/media/default.jpg": "/static/media/default.fbf79b1de76d4828fde7.jpg",
+    "static/media/BebasNeue-Regular.woff2": "/static/media/BebasNeue-Regular.bc1037b6180b03cd2af4.woff2",
+    "static/media/Skincake.woff2": "/static/media/Skincake.a2c6660a23c8a741e2e3.woff2",
+    "static/media/PlanetKosmos.woff2": "/static/media/PlanetKosmos.3036a0230752b2db8636.woff2",
+    "static/media/Vogue-Regular.woff2": "/static/media/Vogue-Regular.36729a7a39c41b8959be.woff2",
+    "static/media/AkiraExpanded-SuperBold.woff2": "/static/media/AkiraExpanded-SuperBold.2a9e2bf7f0958b9b0359.woff2",
+    "static/media/Minecraft.woff2": "/static/media/Minecraft.22fa2e49e2c32ae1e67f.woff2",
+    "index.html": "/index.html",
+    "main.1881c9c8.css.map": "/static/css/main.1881c9c8.css.map",
+    "main.7682aff3.js.map": "/static/js/main.7682aff3.js.map",
+    "453.bb257cf5.chunk.js.map": "/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1881c9c8.css",
+    "static/js/main.7682aff3.js"
+  ]
+}
