@@ -1,0 +1,37 @@
+
+.nav-link{
+    font-size: 1rem;
+}
+
+.navbar{
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*border: 1px solid red;*/
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar ul li{
+    display: inline-block;
+}
+
+.navbar ul li a{
+    padding: 1rem;
+    text-decoration: none;
+    color:rgb(165, 165, 165);
+}
+
+.navbar ul li a:hover{
+    color: black;
+}
+
+.navbar ul li a:active{
+    color: black;
+}
